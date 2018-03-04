@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/amir/CLionProjects/untitled3
+-- Configuring done
+CMake Error at CMakeLists.txt:11 (add_executable):
+  Cannot find source file:
+
+    Tests/ClassName.h
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+-- Generating done
+-- Build files have been written to: /Users/amir/CLionProjects/untitled3/cmake-build-debug
